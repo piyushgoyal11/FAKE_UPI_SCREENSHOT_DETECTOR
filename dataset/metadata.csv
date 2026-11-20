@@ -1,0 +1,13 @@
+image_path,app,label,category,width,height
+dataset\genuine\gpay\gpay original.jpeg,gpay,0,genuine,535,1599
+dataset\genuine\phonepe\phone pay real.jpeg,phonepe,0,genuine,770,1600
+dataset\genuine\paytm\paytm real.jpeg,paytm,0,genuine,770,1600
+dataset\genuine\bhim\bhim real.jpeg,bhim,0,genuine,770,1600
+dataset\genuine\navi\navi real.jpeg,navi,0,genuine,717,1600
+dataset\genuine\supermoney\supermoney  real.jpeg,supermoney,0,genuine,722,1600
+dataset\edited\gpay\gpay edited ss.jpeg,gpay,1,edited,1284,2778
+dataset\edited\phonepe\phone pay fake payment ss.jpg,phonepe,1,edited,415,739
+dataset\edited\paytm\paytm fake.jpg,paytm,1,edited,660,1105
+dataset\edited\bhim\bhim fake.jpeg,bhim,1,edited,740,1600
+dataset\edited\navi\navi edited - Copy.png,navi,1,edited,720,1168
+dataset\edited\supermoney\supermoney fake.jpeg,supermoney,1,edited,192,263
