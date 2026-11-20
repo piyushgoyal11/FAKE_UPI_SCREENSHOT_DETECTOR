@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "UPI Shield AI | Payment Screenshot Review",
+  title: "Pay Authentic AI | Payment Screenshot Review",
   description:
     "Review visible payment details and image signals in a UPI screenshot.",
 };

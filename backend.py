@@ -15,7 +15,7 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from detector import analyze_upi_screenshot
 
-app = FastAPI(title="UPI Shield AI API")
+app = FastAPI(title="Pay Authentic AI API")
 
 app.add_middleware(
     CORSMiddleware,
@@ -44,7 +44,7 @@ DETECTOR_LOCK = threading.Lock()
 def home():
     return {
         "status": "online",
-        "message": "UPI Shield AI Backend Running"
+        "message": "Pay Authentic AI Backend Running"
     }
 
 
@@ -52,7 +52,7 @@ def home():
 def health():
     return {
         "status": "healthy",
-        "service": "UPI Shield AI"
+        "service": "Pay Authentic AI"
     }
 
 

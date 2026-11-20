@@ -211,12 +211,12 @@ export default function Home() {
     <main className="min-h-screen bg-[#f5f7fb] text-slate-900">
       <div className="mx-auto max-w-7xl px-5 pb-12 pt-5 sm:px-8">
         <nav className="flex items-center justify-between border-b border-slate-200/80 pb-5">
-          <a href="#" className="flex items-center gap-3" aria-label="UPI Shield home">
+          <a href="#" className="flex items-center gap-3" aria-label="Pay Authentic AI home">
             <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-emerald-700 text-white shadow-sm shadow-emerald-900/20">
               <ShieldIcon />
             </span>
             <span className="text-base font-bold tracking-tight text-slate-900">
-              UPI Shield
+              Pay Authentic
               <span className="ml-1.5 font-medium text-slate-500">AI</span>
             </span>
           </a>
@@ -523,7 +523,7 @@ export default function Home() {
         )}
 
         <footer className="mt-10 border-t border-slate-200 pt-6 text-center text-xs leading-5 text-slate-500">
-          UPI Shield AI is an experimental tool. Use your bank or UPI app as the source of truth.
+          Pay Authentic AI is an experimental tool. Use your bank or UPI app as the source of truth.
         </footer>
       </div>
     </main>
